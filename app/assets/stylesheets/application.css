@@ -34,3 +34,13 @@ header{
   top: 0px;
   left: 0px;
 }
+
+#content {
+  position: absolute;
+  top: 200px;
+}
+
+#title{
+  color: purple;
+  font-size: 80px;
+}
