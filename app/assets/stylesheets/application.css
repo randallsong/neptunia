@@ -44,3 +44,7 @@ header{
   color: purple;
   font-size: 80px;
 }
+
+#visualmain{
+  background-image: url("visual_main.jpg");
+}
