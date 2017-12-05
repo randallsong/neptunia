@@ -21,7 +21,7 @@
 
  }
 
- h1{
+ #title{
    font-family: 'Poiret One', cursive;
  }
 
@@ -47,8 +47,4 @@ header{
 
 #visualmain{
   background-image: url("visual_main.jpg");
-}
-
-#availablenow{
-  background-image: url("preorder_btn_.jpg");
 }
