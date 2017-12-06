@@ -52,11 +52,16 @@ header{
 #availablenow{
   position: absolute;
   top: 15%;
-  left: 25px;
+  left: 2%;
 }
 
 #title{
   position: absolute;
   top: 10%;
-  left: 275px;
+  left: 20%;
+}
+
+#barcode{
+  position: absolute;
+  left: 33%;
 }
