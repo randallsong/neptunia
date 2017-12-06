@@ -48,3 +48,15 @@ header{
 #visualmain{
   background-image: url("visual_main.jpg");
 }
+
+#availablenow{
+  position: absolute;
+  top: 15%;
+  left: 25px;
+}
+
+#title{
+  position: absolute;
+  top: 10%;
+  left: 275px;
+}
