@@ -21,13 +21,25 @@
 
  }
 
- #title{
+ #title1, #title2{
    font-family: 'Poiret One', cursive;
  }
 
+ #title1{
+   color: white;
+   font-size: 80px;
+ }
+
+ #title2{
+   color: purple;
+   font-size: 80px;
+ }
+
+
+
 header{
   display: block;
-  height: 200px;
+  height: 150px;
   width: 100%;
   background-color: black;
   position: absolute;
@@ -38,11 +50,6 @@ header{
 #content {
   position: absolute;
   top: 200px;
-}
-
-#title{
-  color: purple;
-  font-size: 80px;
 }
 
 #visualmain{
@@ -57,7 +64,7 @@ header{
 
 #title{
   position: absolute;
-  top: 9%;
+  top: 10%;
   left: 20%;
 }
 
